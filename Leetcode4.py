@@ -1,3 +1,9 @@
+"""
+Author: Swastik Bhattacharjee
+Date: 17th February, 2023
+Github: @SwastikBhattacharjee
+"""
+
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
         """
